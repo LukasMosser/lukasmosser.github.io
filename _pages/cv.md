@@ -53,7 +53,7 @@ Work experience
 
 * : Reservoir Engineering Intern
   * RAG Austria AG, Vienna, Austria
-  * August 2011 - September 2011
+  * August 2011 - September 2011 
 
 * : Field Engineer Intern
   * ExxonMobil GmbH, Grossenkneten, Germany
