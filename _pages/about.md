@@ -8,19 +8,53 @@ redirect_from:
   - /about.html
 ---
 
-I'm Lukas Mosser. A PhD student at Imperial College London (ICL) under supervision of Olivier Dubrule and Martin Blunt. I work on computational geoscience problems, specifically merging deep neural networks with Bayesian inversion techniques. My main technical interests are in Bayesian techniques for geophysical inverse problems, numerical solution of PDE's and deep learning. Ideally, a combination of three.
 
-Feel free to follow me on twitter [@porestar](https://twitter.com/porestar), my [Google Scholar](https://scholar.google.at/citations?user=y0R9snMAAAAJ&hl=de), or [Github](https://github.com/lukasmosser).
+## Hey There, I'm Lukas!
 
-"This is so going in my blog!" - Barney Stinson
-------
-Well, there's nothing here yet but here's the plan:
-I'm gonna be finishing my PhD fairly soon, so I need to get in the habit of writing. I usually do alot of writing anyways, but that goes straight to a paper most of the time. Here, I hope to post more ad-hoc things, cool projects or papers I found and reviewed or libraries that I want to share. There's already a 3 part blog in the making that I've been working on for a while so hopefully to be shared soon.
+I'm currently building Machine Learning-based applications  
+for the energy industry @ [Earth Science Analytics](https://earthanalytics.ai).   
+There, I work as a principal geo/ data scientist and lead the R&D team.
+
+### Previous Experience
+Before diving into the startup world, I did my PhD at Imperial College London (ICL) under supervision of Olivier Dubrule and Martin Blunt. 
+My main focus was on combining deep learning with Bayesian inversion techniques to solve high-dimensional inverse problems. 
+My PhD thesis is publicly available, and you can find it [here](https://spiral.imperial.ac.uk/handle/10044/1/80165) in Imperial's archives.
+
+### Teaching Experience
+During my time at Imperial College, I co-created the Machine Learning Module  
+for the [MSc. in Applied Computational Sciences and Engineering Course](https://www.imperial.ac.uk/study/pg/earth-science/computational-science/#:~:text=Apply%20now-,Overview,novel%20science%20and%20engineering%20approaches.).
+Creating the material for pratical sessions and teaching these to more than 60 students.
+
+You can see a video about the course [here on Youtube](https://www.youtube.com/watch?v=m9a0YU2IdUU).  
+I'm the serious guy pointing out important things at the whiteboard at 0:34 :-)
+
+### Technical Interest
+My main technical interests are in Bayesian methods for Inverse Problems,  
+Bayesian Deep Learning, (Deep) Generative Methods, and Geological Modelling.  
+
+Furthermore, I am currently learning to not only build good ML-based models but also to put them into production,  
+creating great APIs for them, and optimizing the User-Experience of working with ML-based software.  
+
+### Community Outreach
+I currently also serve as a committee member on the [EAGE committee for AI](https://eage.org/communities/artificial-intelligence-community/),
+where I help organize weekly updates on All-Things-AI, conferences, workshops, and dedicated sessions.
+
+I regularly review publications in the domain of stochastic image reconstruction, 
+deep generative models, and machine-learning based application for geophysics.
+
+### For Fun
+Typically you can find me in the boulder gym, on the tennis court, taking pictures with my beloved cameras,  
+obsessing over good coffee, or reading a science-fiction novel.  
+
+### Get In Touch
+Feel free to reach out to me at lukas _ mosser [at]() gmail dot com, 
+or follow me on twitter [@porestar](https://twitter.com/porestar), my [Google Scholar](https://scholar.google.at/citations?user=y0R9snMAAAAJ&hl=de), or [Github](https://github.com/lukasmosser).
+
 
 Active Projects
 ------
-I maintain a few active projects at the moment:
-- [geodeadlin.es](http://www.geodeadlin.es): A repository of upcoming abstract deadlines for geoscience conferences.
+I maintain a few active code projects at the moment:
+- [Neural-Rock-Typing](http://www.github.com/lukasmosser/neural_rock_typing): Model interpretability viewer and API for Carbonate Rock Types.
 - [ASI-Pytorch](https://www.github.com/lukasmosser/asi-pytorch): Collection of automated seismic interpretation models written in pytorch. PR's welcome!
 - [PorousMediaGAN](https://github.com/LukasMosser/PorousMediaGan): Acompanying repository for our paper on porous media reconstruction in [Phys. Rev. E](https://journals.aps.org/pre/abstract/10.1103/PhysRevE.96.043309)
 

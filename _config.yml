@@ -32,7 +32,7 @@ comments:
     colorscheme          : # "light" (default), "dark"
 staticman:
   allowedFields          : ['name', 'email', 'url', 'message']
-  branch                 : "gh-pages" # "master", "gh-pages"
+  branch                 : "master" # "master", "gh-pages"
   commitMessage          : "New comment."
   filename               : comment-{@timestamp}
   format                 : "yml"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Lukas Mosser"
   avatar           : "profile.png"
-  bio              : "| PhD Student Imperial College London | Geosciences and ML | <3 Bouldering and old Cameras | 80s music and synthwave |"
-  location         : "London, UK"
+  bio              : "| Principal Geo/Data Scientist @ Earth Science Analytics | <3 Bouldering and Old Cameras | Most likely action: Drinking Coffee |"
+  location         : "Salzburg, Austria"
   employer         :
   googlescholar    : "https://scholar.google.at/citations?user=y0R9snMAAAAJ&hl=de"
-  email            : "lukas.mosser15@imperial.ac.uk"
+  email            : "lukas.mosser@gmail.com"
   researchgate     : "https://www.researchgate.net/profile/Lukas_Mosser"
   uri              :
   bitbucket        :

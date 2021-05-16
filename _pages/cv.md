@@ -13,7 +13,7 @@ Education
 ======
 * B.Sc. in Petroleum Engineering (1.64 out of 5), Montanuniversitaet Leoben, 2015
 * M.Sc. in Petroleum Engineering (with Distinction), Imperial College London, 2016
-* Ph.D, Imperial College London, 2019 (expected)
+* Ph.D, Imperial College London, 2019
 
 
 Prizes and Awards
@@ -27,6 +27,11 @@ Prizes and Awards
 
 Work experience
 ======
+* : Principal Geo / Data Scientist
+  * Earth Science Analytics AS
+  * Since October 2019
+  * R&D Team Lead
+
 * Research Engineer Intern
   * Statoil (now Equinor), Houston, USA
   * July - September 2015
@@ -72,7 +77,8 @@ Teaching
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Service and leadership
 ======
+* I serve on the EAGE AI Committee and on various technical committees for EAGE Conferences.
 * I maintain a website for geoscience deadlines called [geodeadlin.es](http://geodeadlin.es)
