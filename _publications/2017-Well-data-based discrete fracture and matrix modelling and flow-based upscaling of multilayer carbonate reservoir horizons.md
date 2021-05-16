@@ -1,0 +1,12 @@
+---
+title: "Well-data-based discrete fracture and matrix modelling and flow-based upscaling of multilayer carbonate reservoir horizons"
+collection: publications
+permalink: /publication/2018-Well-data-based discrete fracture and matrix modelling and flow-based upscaling of multilayer carbonate reservoir horizons.md
+excerpt: 'Discrete fracture and matrix (DFM) homogenization, simultaneously capturing reservoir layers and contained fractures, is an alternative to discrete fracture network (DFN) upscaling. Here, the DFM approach was applied to a fractured carbonate reservoir.'
+date: 2017-10-01
+venue: 'Geological Society, London, Special Publications'
+paperurl: 'http://sp.lyellcollection.org/content/459/1/191'
+citation: 'Milliotte, C., Jonoud, S., Wennberg, O. P., Matthäi, S. K., Jurkiw, A., & Mosser, L. (2018). Well-data-based discrete fracture and matrix modelling and flow-based upscaling of multilayer carbonate reservoir horizons. Geological Society, London, Special Publications, 459(1), 191-210.'
+---
+Discrete fracture and matrix (DFM) homogenization, simultaneously capturing reservoir layers and contained fractures, is an alternative to discrete fracture network (DFN) upscaling. Here, the DFM approach was applied to a fractured carbonate reservoir. Honouring geostatistical data from well logs, near-well multilayer reservoir models were constructed and analysed. Fracture aperture variations were modelled with a new semi-analytical model including a special treatment of layer-restricted fractures. Important results concern both pre-processing of stochastically generated DFMs for finite-element meshing, and the ensemble permeability values obtained by numerical homogenization of single v. multilayer models, respectively. Upscaling by volume averaging of vertically stacked single-layer DFMs results only in a fraction of the equivalent horizontal permeability that is obtained by homogenization of the multilayer models. Inspection of the flow patterns shows that this discrepancy arises because many fractures contact each other at layer boundaries fostering cross-flow. This effect is further enhanced where fractures intersect multiple layers. Compared to earlier DFN models for this reservoir, the DFM-derived fracture and matrix ensemble permeabilities are up to four times higher, highlighting how important it is to include the rock matrix into equivalent permeability calculations.
+[Download paper here](http://sp.lyellcollection.org/content/459/1/191)
