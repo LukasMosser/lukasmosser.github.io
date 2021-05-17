@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* B.Sc. in Petroleum Engineering (1.64 out of 5), Montanuniversitaet Leoben, 2015
+* B.Sc. in Petroleum Engineering, Montanuniversitaet Leoben, 2015
 * M.Sc. in Petroleum Engineering (with Distinction), Imperial College London, 2016
 * Ph.D, Imperial College London, 2019
 
@@ -81,4 +81,4 @@ Teaching
 Service and leadership
 ======
 * I serve on the EAGE AI Committee and on various technical committees for EAGE Conferences.
-* I maintain a website for geoscience deadlines called [geodeadlin.es](http://geodeadlin.es)
+* I'm a member of the SEG Special Interest Group for Artificial Intelligence

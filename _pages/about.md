@@ -11,28 +11,27 @@ redirect_from:
 
 ## Hey There, I'm Lukas!
 
-I'm currently building Machine-Learning-based applications  
-for the energy industry @ [Earth Science Analytics](https://earthanalytics.ai).   
-There, I work as a principal geo/ data scientist and lead the R&D team.
+I'm currently building Machine-Learning-based applications for the energy industry @ [Earth Science Analytics](https://earthanalytics.ai).
+There, I work as a principal geo/ data scientist and lead the R&D team.  
 
 ### Previous Experience
-Before diving into the startup world, I did my PhD at Imperial College London (ICL) under the supervision of Olivier Dubrule and Martin Blunt. 
-My main focus was on combining deep learning with Bayesian inversion techniques to solve high-dimensional inverse problems. 
-My PhD thesis is publicly available, and you can find it [here](https://spiral.imperial.ac.uk/handle/10044/1/80165) in Imperial's archives.
+Before diving into the startup world, I did my PhD at Imperial College London (ICL) under the supervision of Olivier Dubrule and Martin Blunt. My main focus was on combining deep learning with Bayesian inversion techniques to solve high-dimensional inverse problems.  
+
+My PhD thesis is publicly available, and you can find it [here](https://spiral.imperial.ac.uk/handle/10044/1/80165) in Imperial's archives.  
 
 ### Teaching Experience
-During my time at Imperial College, I co-created the Machine Learning Module  
-for the [MSc. in Applied Computational Sciences and Engineering Course](https://www.imperial.ac.uk/study/pg/earth-science/computational-science/#:~:text=Apply%20now-,Overview,novel%20science%20and%20engineering%20approaches.).
+During my time at Imperial College, I co-created the Machine Learning Module 
+for the [MSc. in Applied Computational Sciences and Engineering Course](https://www.imperial.ac.uk/study/pg/earth-science/computational-science/#:~:text=Apply%20now-,Overview,novel%20science%20and%20engineering%20approaches.).  
 Creating the material for practical sessions and teaching these to more than 60 students.
 
 You can see a video about the course [here on Youtube](https://www.youtube.com/watch?v=m9a0YU2IdUU).  
 I'm the serious guy pointing out important things at the whiteboard at 0:34 :-)
 
 ### Technical Interest
-My main technical interests are in Bayesian methods for Inverse Problems,  
+My main technical interests are in Bayesian methods for Inverse Problems, 
 Bayesian Deep Learning, (Deep) Generative Methods, and Geological Modelling.  
 
-Furthermore, I am currently learning to not only build good ML-based models but also to put them into production,  
+Furthermore, I am currently learning to not only build good ML-based models but also to put them into production,
 creating great APIs for them, and optimizing the User-Experience of working with ML-based software.  
 
 ### Community Outreach
@@ -43,7 +42,7 @@ I regularly review publications in the domain of stochastic image reconstruction
 deep generative models, and Machine-Learning-based application for geophysics.
 
 ### For Fun
-Typically you can find me in the boulder gym, on the tennis court, taking pictures with my beloved cameras,  
+Typically you can find me in the boulder gym, on the tennis court, taking pictures with my beloved cameras,
 obsessing over good coffee, or reading a science-fiction novel.  
 
 ### Get In Touch
