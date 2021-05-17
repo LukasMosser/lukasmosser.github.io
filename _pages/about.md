@@ -12,6 +12,7 @@ redirect_from:
 ## Hey There, I'm Lukas!
 
 I'm currently building Machine-Learning-based applications for the energy industry @ [Earth Science Analytics](https://earthanalytics.ai).
+
 There, I work as a principal geo/ data scientist and lead the R&D team.  
 
 ### Previous Experience
