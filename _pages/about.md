@@ -11,9 +11,11 @@ redirect_from:
 
 ## Hey There, I'm Lukas!
 
-I'm currently building Machine-Learning-based applications for the energy industry @ [Earth Science Analytics](https://earthanalytics.ai).
+I'm currently a data scientist @ [Aker BP](https://akerbp.com) in Norway.
 
-There, I work as a principal geo/ data scientist and lead the R&D team.  
+There, I work as an advanced data scientist (lead-equivalent) and value stream manager responsible for generative AI in subsurface applications.
+
+I also lead the Aker BP data science community of practice. 
 
 ### Previous Experience
 Before diving into the startup world, I did my PhD at Imperial College London (ICL) under the supervision of Olivier Dubrule and Martin Blunt. My main focus was on combining deep learning with Bayesian inversion techniques to solve high-dimensional inverse problems.  
