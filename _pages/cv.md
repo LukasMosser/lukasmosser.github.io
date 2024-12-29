@@ -18,6 +18,8 @@ Education
 
 Prizes and Awards
 ======
+* EAGE Arie van Weelden Award 2024
+* Best Paper Awawrd Mathematical Geosciences, 2020
 * John S. Archer Award for Research Excellence, Imperial College London, 2018
 * 1st Place in SEG Machine Learning Contest with Alfredo de la Fuente
 * BP Award for Best MSc. Petroleum Engineering Thesis Project 2016
@@ -27,9 +29,14 @@ Prizes and Awards
 
 Work experience
 ======
+* : Advanced Data Scientist
+  * AkerBP AS 
+  * August 2022 - Today
+  * Data Scientist & Value Stream Manager
+    
 * : Principal Geo / Data Scientist
   * Earth Science Analytics AS
-  * Since October 2019
+  * October 2019 - June 2022
   * R&D Team Lead
 
 * Research Engineer Intern
