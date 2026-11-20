@@ -1,0 +1,13 @@
+---
+title: "A comprehensive study of calibration and uncertainty quantification for Bayesian convolutional neural networks — An application to seismic data"
+collection: publications
+permalink: /publication/2022-Calibration-UQ-Bayesian-CNN-Seismic
+excerpt: 'Deep neural networks offer numerous potential applications across geoscience; for example, one could argue that they are the state-of-the-art method for predicting faults in seismic data sets. In quantitative reservoir characterization workflows, it is common to incorporate the uncertainty of predictions.'
+date: 2022-04-22
+venue: 'Geophysics'
+paperurl: 'https://doi.org/10.1190/geo2021-0318.1'
+citation: 'Mosser, L., & Zabihi Naeini, E. (2022). A comprehensive study of calibration and uncertainty quantification for Bayesian convolutional neural networks — An application to seismic data. Geophysics, 87(4), IM157-IM176.'
+---
+Deep neural networks offer numerous potential applications across geoscience; for example, one could argue that they are the state-of-the-art method for predicting faults in seismic data sets. In quantitative reservoir characterization workflows, it is common to incorporate the uncertainty of predictions. Thus, such subsurface models should provide calibrated probabilities and the associated uncertainties in their predictions. It has been shown that popular deep learning-based models often are miscalibrated, and due to their deterministic nature, they provide no means to interpret the uncertainty of their predictions. We compare three different approaches for obtaining probabilistic models based on convolutional neural networks in a Bayesian formalism, namely, deep ensembles, concrete dropout, and stochastic weight averaging Gaussian (SWAG). These methods are consistently applied to fault detection case studies in which deep ensembles use independently trained models to provide fault probabilities and concrete dropout represents an extension to the popular dropout technique to approximate Bayesian neural networks. Finally, we apply SWAG, a recent method that is based on the Bayesian inference equivalence of minibatch stochastic gradient descent. We provide quantitative results in terms of model calibration and uncertainty representation, as well as qualitative results on the synthetic and real seismic data sets. Our results indicate that the approximate Bayesian methods, concrete dropout and SWAG, provide well-calibrated predictions and uncertainty attributes at a lower computational cost compared to the baseline deep ensemble approach. The resulting uncertainties also offer a possibility to further improve the model performance, as well as enhancing the interpretability of the models.
+
+[Read the paper here](https://doi.org/10.1190/geo2021-0318.1)

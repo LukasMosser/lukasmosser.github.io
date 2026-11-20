@@ -1,5 +1,5 @@
 ---
-title: "Tesselations Stable under Iteration"
+title: "Tessellations Stable under Iteration"
 collection: publications
 permalink: /publication/2014-Tessellations-stable-under-iteration
 excerpt: 'This contribution presents a novel stochastic model based on tessellations stable

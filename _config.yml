@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               : false # Universal Analytics (UA-) was shut down by Google in 2024; set up GA4 or another provider to re-enable
   google:
     tracking_id          : "UA-114722448-2"
 
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Lukas Mosser"
   avatar           : "profile.png"
-  bio              : "| Advanced Data Scientist @ Aker BP | <3 Bouldering and Old Cameras | Most likely action: Drinking Coffee |"
+  bio              : "Advanced Data Scientist @ Aker BP. Generative AI for the subsurface. Bouldering, old cameras and good coffee."
   location         : "Stavanger, Norway"
   employer         :
   googlescholar    : "https://scholar.google.at/citations?user=y0R9snMAAAAJ&hl=de"
@@ -177,9 +177,6 @@ collections:
     permalink: /:collection/:path/
   publications:
     output: true
-    permalink: /:collection/:path/
-  portfolio:
-    output: false
     permalink: /:collection/:path/
   talks:
     output: true
